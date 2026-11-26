@@ -1,0 +1,25 @@
+{
+  "name": "fsd2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanshhh01/FSD_MT01_Vansh_Chauhan_CSE34_1284_Batch1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vanshhh01/FSD_MT01_Vansh_Chauhan_CSE34_1284_Batch1/issues"
+  },
+  "homepage": "https://github.com/vanshhh01/FSD_MT01_Vansh_Chauhan_CSE34_1284_Batch1#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
